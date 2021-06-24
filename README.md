@@ -10,7 +10,6 @@ Estudo e desenvolvimento de modelos de aprendizado de maquina para series tempor
 * LSTM Univariado
 * LSTM Multivariado
 
-
 ## Status
 
 Working in progress
